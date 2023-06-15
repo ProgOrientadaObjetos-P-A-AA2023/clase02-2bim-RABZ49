@@ -7,6 +7,7 @@ public class EstudiantePresencial extends Estudiante{
     double costoCredito;
     double matriculaPresencial;
     
+    
     public EstudiantePresencial(String n, String ap, String iden, int e){
         // public Estudiante(String n, String a, String iden, int ed){
         super(n, ap, iden, e); // cumplir con el constructor de la superClase

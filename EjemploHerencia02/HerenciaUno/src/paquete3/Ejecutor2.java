@@ -52,5 +52,6 @@ public class Ejecutor2 {
                 estDistancia.obtenerMatriculaDistancia());
      
         System.out.printf("%s\n", cadenaFinal2);
+        
     }
 }

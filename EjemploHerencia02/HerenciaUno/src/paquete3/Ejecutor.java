@@ -23,7 +23,10 @@ public class Ejecutor {
                 apellido, identificacion, edad);
         
         System.out.println(estDistancia);
-                
+        // crear un objeto de tipo Estudiante presencial
+        EstudiantePresencial ePresencial = new EstudiantePresencial("Roberto", 
+                "Bustamante","1105446544" , 18);
+        System.out.println(ePresencial);
         
     }
 }

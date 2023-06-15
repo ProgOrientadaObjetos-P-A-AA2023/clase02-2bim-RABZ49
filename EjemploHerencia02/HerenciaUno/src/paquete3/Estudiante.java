@@ -14,11 +14,14 @@ public class Estudiante {
     protected int edadEstudiante;
     
     
+    
     public Estudiante(String n, String a, String iden, int ed){
         nombresEstudiante = n;
         apellidosEstudiante = a;
         identificacionEstudiante = iden;
         edadEstudiante = ed;
+        
+        
     }
     
     //  Métodos establecer y calcular para los datos o atributos de la clase
